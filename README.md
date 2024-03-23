@@ -5,7 +5,7 @@
 - ⚡ Curiosity: in new challenges
   
 
-<p align="center">I ❤️ solve great challenges using tech. </p>&nbsp;
+<p align="center">I love solve great challenges using tech. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rayramello&theme=tokyonight&mode=weekly" />
@@ -56,4 +56,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#b4a7d6&height=120&section=footer"/>

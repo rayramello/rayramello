@@ -8,7 +8,7 @@
 <p align="center">I love solve great challenges using tech. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rayramello&theme=tokyonight&mode=weekly" />
+<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rayramello&theme=tokyonight&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-bice-phi-69.vercel.app//api/top-langs/?username=kyronsatt&show_icons=true&theme=tokyonight&layout=compact" />
 
  </div>
